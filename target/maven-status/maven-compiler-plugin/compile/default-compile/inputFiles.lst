@@ -1,0 +1,13 @@
+/home/etudiant/tp-observabilite/src/main/java/com/observability/exception/ProductAlreadyExistsException.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/exception/ProductNotFoundException.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/repository/ProductRepository.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/analysis/ProfileAnalyzer.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/simulation/ScenarioGenerator.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/model/User.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/model/Product.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/spoon/LogProcessor.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/Main.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/util/UserContext.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/spoon/SpoonApplier.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/analysis/UserProfile.java
+/home/etudiant/tp-observabilite/src/main/java/com/observability/analysis/LogEntry.java

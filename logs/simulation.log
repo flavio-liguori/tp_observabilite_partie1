@@ -1,0 +1,218 @@
+Starting scenario generation...
+Simulating user1@simulation.com [READER]
+17:30:07 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_15", "price": 44.00} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_82"} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_59"} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_4"} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_79"} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_65", "price": 42.00} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_39"} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_19"} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_34"} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_19", "price": 40.00} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_19", "price": 40.00} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:08 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_36", "price": 58.00} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_63", "price": 47.00} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user1@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+Simulating user2@simulation.com [READER]
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_65"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_68"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_19"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_55"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_31"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_63", "price": 31.00} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_4"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_1"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_82", "price": 26.00} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_82", "price": 26.00} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_41", "price": 27.00} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_41", "price": 36.00} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_54"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user2@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_14"} }
+Simulating user3@simulation.com [READER]
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_96"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_92"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_81"} }
+17:30:09 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_78"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_97", "price": 43.00} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_0", "price": 40.00} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_76"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_28"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_17", "price": 42.00} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_5"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_36"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_84"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user3@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+Simulating user4@simulation.com [READER]
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_33"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_58"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_42"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_1"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_15"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_90"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_36"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_66"} }
+17:30:10 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_10", "price": 21.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_10", "price": 21.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_95"} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user4@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_76"} }
+Simulating user5@simulation.com [WRITER]
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_80", "price": 32.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_6", "price": 41.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_54", "price": 53.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_88", "price": 55.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_15"} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_19"} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_28"} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_60", "price": 21.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_46"} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_1"} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_13", "price": 14.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_77", "price": 19.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_27", "price": 16.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_52", "price": 14.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_76", "price": 22.00} }
+17:30:11 [main] INFO com.observability.repository.ProductRepository - {"user": "user5@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_39"} }
+Simulating user6@simulation.com [WRITER]
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_34"} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_20"} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_28"} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_69", "price": 46.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_75", "price": 31.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_5"} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_77", "price": 20.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_21", "price": 40.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_29"} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_92", "price": 52.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_28", "price": 14.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_90", "price": 40.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_37", "price": 10.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_57"} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_99", "price": 38.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_63", "price": 17.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_20", "price": 45.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user6@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_73", "price": 49.00} }
+Simulating user7@simulation.com [WRITER]
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_25", "price": 18.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_84"} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_22", "price": 39.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_28", "price": 43.00} }
+17:30:12 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_28", "price": 43.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_39", "price": 55.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_93", "price": 22.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_23"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_85"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_36"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_40"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_7"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_16", "price": 13.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_89"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_22", "price": 49.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_15", "price": 16.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_55", "price": 27.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user7@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+Simulating user8@simulation.com [LUXURY]
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_9"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_68", "price": 5256.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_37"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_30", "price": 3631.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_30", "price": 3631.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_32"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_66"} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_24", "price": 2618.00} }
+17:30:13 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_54", "price": 4778.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_18"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_39", "price": 3244.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_71"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_54"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_51"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_5", "price": 2025.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_25"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user8@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_33"} }
+Simulating user9@simulation.com [LUXURY]
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_18"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_26", "price": 1568.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_25", "price": 2085.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_44", "price": 3995.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_63", "price": 5826.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_53"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_21"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_19", "price": 1074.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_33", "price": 3150.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_31"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "save", "type": "WRITE", "data": {"id": "sim_46", "price": 4018.00} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_70"} }
+17:30:14 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_20"} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user9@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_38"} }
+Simulating user10@simulation.com [LUXURY]
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_50"} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_14", "price": 2307.00} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_5"} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_29"} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_32", "price": 5212.00} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findAll", "type": "READ", "data": {} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_47"} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_63"} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "delete", "type": "WRITE", "data": {"id": "sim_13"} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_5", "price": 1427.00} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_9"} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "update", "type": "WRITE", "data": {"id": "sim_88", "price": 5136.00} }
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "findById", "type": "READ", "data": {"id": "sim_41"} }
+Scenario generation complete.
+17:30:15 [main] INFO com.observability.repository.ProductRepository - {"user": "user10@simulation.com", "action": "close", "type": "READ", "data": {} }

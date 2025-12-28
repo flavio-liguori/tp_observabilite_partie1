@@ -1,0 +1,13 @@
+target/generated-sources/spoon/com/observability/Main.java
+target/generated-sources/spoon/com/observability/model/Product.java
+target/generated-sources/spoon/com/observability/model/User.java
+target/generated-sources/spoon/com/observability/spoon/LogProcessor.java
+target/generated-sources/spoon/com/observability/spoon/SpoonApplier.java
+target/generated-sources/spoon/com/observability/repository/ProductRepository.java
+target/generated-sources/spoon/com/observability/analysis/UserProfile.java
+target/generated-sources/spoon/com/observability/analysis/LogEntry.java
+target/generated-sources/spoon/com/observability/analysis/ProfileAnalyzer.java
+target/generated-sources/spoon/com/observability/util/UserContext.java
+target/generated-sources/spoon/com/observability/simulation/ScenarioGenerator.java
+target/generated-sources/spoon/com/observability/exception/ProductAlreadyExistsException.java
+target/generated-sources/spoon/com/observability/exception/ProductNotFoundException.java
